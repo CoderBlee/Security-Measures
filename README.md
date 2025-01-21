@@ -1,7 +1,7 @@
 ## **Open Service Ports Using Kali Linux**
 
 #### **Objective**
-To improve Structureality Inc.’s security posture by identifying open service ports, enumerating service identities, and identifying the operating systems of systems in different network environments.
+To improve an organisation’s security posture by identifying open service ports, enumerating service identities, and identifying the operating systems of systems in different network environments.
 
 #### **Prerequisites**
 1. **Kali Linux** installed and updated.
